@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BD>
+  <tables>
+    <tables>
+      <tables number="1">
+        <free_occ>occ</free_occ>
+      </tables>
+      <tables number="2">
+        <free_occ>occ</free_occ>
+      </tables>
+      <tables number="3">
+        <free_occ>free</free_occ>
+      </tables>
+      <tables number="4">
+        <free_occ>free</free_occ>
+      </tables>
+      <tables number="5">
+        <free_occ>free</free_occ>
+      </tables>
+      <tables number="6">
+        <free_occ>free</free_occ>
+      </tables>
+      <tables number="7">
+        <free_occ>free</free_occ>
+      </tables>
+    </tables>
+  </tables>
+  <menu>
+    <menu>
+      <menu name="Monopolia">
+        <cost>150</cost>
+      </menu>
+      <menu name="Manchkin">
+        <cost>150</cost>
+      </menu>
+      <menu name="DnD">
+        <cost>150</cost>
+      </menu>
+      <menu name="PS 5">
+        <cost>200</cost>
+      </menu>
+    </menu>
+  </menu>
+  <order>
+    <order>
+      <order number="1">
+        <number_table>1</number_table>
+        <count_guest>2</count_guest>
+        <array name="list_boardgame">
+          <item>Monopolia</item>
+        </array>
+        <array name="count_boardgame">
+          <item>1</item>
+        </array>
+        <result>150</result>
+      </order>
+      <order number="2">
+        <number_table>2</number_table>
+        <count_guest>3</count_guest>
+        <array name="list_boardgame">
+          <item>Monopolia</item>
+        </array>
+        <array name="count_boardgame">
+          <item>1</item>
+        </array>
+        <result>150</result>
+      </order>
+    </order>
+  </order>
+</BD>

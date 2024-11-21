@@ -1,0 +1,31 @@
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.AddOrder.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.Component1.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.Home.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.ChangeMenu.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.ChangeOrder.resources
+C:\Users\iramu\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Ресторан.ResultOrder.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.AddOrder.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.ChangeMenu.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.Component1.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.Home.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.ResultOrder.resources
+D:\Учёба\2 курс\ООП\курсовая\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anticafe.ChangeOrder.resources
